@@ -79,11 +79,13 @@ Observations:
 3.	July and august are the months where more no:of trips are taken
 4.	Saturday and Sunday are busiest and casual riders take more rides on that day
 5.	Average length of ride taken is more by casual driver. This might be because casual drivers are mostly tourists.
-Recommendations :
-1.	Introduce special member plan for casual drivers on weekends.
-2.	Target summer plan for casual members on summer months.
 
-Future: 
+Recommendations :
+1.	Introduce special member plan for casual riders on weekends.
+2.	Target summer plan for casual members on summer months.
+3.	Introduce special plan for tourists who are casual riders.
+
+Future study: 
 
 3.	Identify the casual drivers who are commuting to work daily using daily pass
 4.	Identify the busiest stations and target special promotions targeted at them
