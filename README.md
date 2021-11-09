@@ -71,6 +71,8 @@ The cleaned data is exported to CSV file and imported to Tableau public.
 My tableau dashboard is available in this link.
 https://public.tableau.com/authoring/PortfolioProject_16319963364550/BikesharingDashboard#1
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 ### Data Findings and recommendation
 
 Observations:
