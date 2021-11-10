@@ -28,7 +28,7 @@ Data is located at https://divvy-tripdata.s3.amazonaws.com/index.html. Its updat
 The data has been made available by Motivate International Inc. under this license.
 Data-privacy issues prohibit you from using riders’ personally identifiable information. This means that you won’t be able to connect pass purchases to credit card numbers to determine if casual riders live in the Cyclistic service area or if they have purchased multiple single passes.
 
-### Data Collection phase
+### Data Collection Phase
 
 Set of CSV files are downloaded to local folder and extracted. Open csv files and observe the data .
 
@@ -45,7 +45,7 @@ Issues faced:
 1. Exporting issues like size constraint and datatype issues were inspected and resolved.
 2. 2019 Q1 and Q2 files are corrupted and cannot be extracted.
 
-### Data validation process
+### Data Validation
 
 
 Last 12 months of data is our focus. Since all the data have same structure, I combined all data into one single table and it had close to 5M records. Inspected and did some data validations , removed invalid data , added column for ridelength.
@@ -60,7 +60,7 @@ SQL queries used are available at https://github.com/binitagiri/GoogleCapstonePr
 
 SQL queries used are available at SQL queries used are available at https://github.com/binitagiri/GoogleCapstoneProject/blob/main/bikeSharingProject_DataAnalysis.sql
 
-### Data visualisations
+### Data Visualisation
 
 The cleaned data is exported to CSV file and imported to Tableau public.
 
